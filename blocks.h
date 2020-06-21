@@ -12,7 +12,7 @@ static const Block blocks[] = {
 	{"RSS: ",    "~/.local/bin/dwmblocks_scripts/news",										0,					6},
 	{"",         "~/.local/bin/dwmblocks_scripts/volume",									0,					2},
 	{"",         "~/.local/bin/dwmblocks_scripts/betterbattery",							10,					0},
-	{"",         "~/.local/bin/dwmblocks_scripts/internet",									30,					0},
+	{"📶",       "~/.local/bin/dwmblocks_scripts/internet",									30,					0},
 	{"CPU: ",    "~/.local/bin/dwmblocks_scripts/cpu_usage",								15,					0},
 	{"Disk: ",   "~/.local/bin/dwmblocks_scripts/disk_usage",								600,				0},
 	{"",         "uptime -p | sed 's/hours/h/; s/minutes/min/; s/seconds/sec/'",			60,					0},
