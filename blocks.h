@@ -7,7 +7,7 @@ static const Block blocks[] = {
 	//{"", "xfce4-terminal -e english_to_danish --hold --drop-down",			0,					0},
 	//{"", "xfce4-terminal -e danish_to_english --hold --drop-down",			0,					0},
 	{"", "~/.local/bin/bar_scripts/clock",									30,					0},
-	{"", "~/.local/bin/bar_scripts/showcalendar",							3600,				0},
+	{"📅", "~/.local/bin/bar_scripts/showcalendar",							3600,				0},
 	{"", "~/.local/bin/bar_scripts/mailbox",								180,				12},
 	{"", "~/.local/bin/bar_scripts/taskblocklet",							0,					3},
 	{"", "~/.local/bin/bar_scripts/news",									0,					6},
