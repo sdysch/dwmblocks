@@ -11,6 +11,7 @@ static const Block blocks[] = {
 	{"Tasks: ",  "~/.local/bin/dwmblocks_scripts/taskblocklet",								0,					3},
 	{"RSS: ",    "~/.local/bin/dwmblocks_scripts/news",										0,					6},
 	{"",         "~/.local/bin/dwmblocks_scripts/volume",									0,					2},
+	{"Mail: ",   "~/.local/bin/dwmblocks_scripts/mailbox",									180,				12},
 	{"",         "~/.local/bin/dwmblocks_scripts/betterbattery",							10,					0},
 	{"📶",       "~/.local/bin/dwmblocks_scripts/internet",									30,					0},
 	{"CPU: ",    "~/.local/bin/dwmblocks_scripts/cpu_usage",								15,					0},
