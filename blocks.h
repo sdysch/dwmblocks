@@ -12,7 +12,7 @@ static const Block blocks[] = {
 	{"", "~/.local/bin/bar_scripts/taskblocklet",							0,					3},
 	{"", "~/.local/bin/bar_scripts/news",									0,					6},
 	{"", "~/.local/bin/bar_scripts/volume",									0,					2},
-	{"", "~/.local/bin/bar_scripts/battery",								10,					0},
+	{"", "~/.local/bin/bar_scripts/betterbattery",							10,					0},
 	{"", "~/.local/bin/bar_scripts/internet",								30,					0},
 	{"", "~/.local/bin/bar_scripts/weatherreport",							18000,				5},
 	{"", "~/.local/bin/bar_scripts/keyindicator",							0,					11},
