@@ -8,7 +8,7 @@ static const Block blocks[] = {
 	{"",            "~/.local/bin/dwmblocks_scripts/music",									0,					1},
 	{"",            "~/.local/bin/dwmblocks_scripts/clock",									30,					0},
 	{"",            "~/.local/bin/dwmblocks_scripts/showcalendar",							3600,				0},
-	{"",            "~/.local/bin/dwmblocks_scripts/taskblocklet",							0,					3},
+	//{"",            "~/.local/bin/dwmblocks_scripts/taskblocklet",							0,					3},
 	{"",            "~/.local/bin/dwmblocks_scripts/news",									0,					6},
 	{"",            "~/.local/bin/dwmblocks_scripts/volume",								0,					2},
 	{"",            "~/.local/bin/dwmblocks_scripts/mailbox",								180,				12},
