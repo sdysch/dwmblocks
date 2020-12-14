@@ -5,7 +5,7 @@
 static const Block blocks[] = {
 	/*Icon*/	    /*Command*/									                   /*Update Interval*/	   /*Update Signal*/
 
-	{"",            "~/.local/bin/dwmblocks_scripts/music",									0,					1},
+	//{"",            "~/.local/bin/dwmblocks_scripts/music",									0,					1},
 	{"",            "~/.local/bin/dwmblocks_scripts/clock",									30,					0},
 	{"",            "~/.local/bin/dwmblocks_scripts/showcalendar",							3600,				0},
 	//{"",            "~/.local/bin/dwmblocks_scripts/taskblocklet",							0,					3},
