@@ -9,7 +9,7 @@ static const Block blocks[] = {
 
 	{"",            SCRIPTDIR "music",								0,					1},
 	//{"",            SCRIPTDIR "taskblocklet",						0,					3},
-	{"",            SCRIPTDIR "todo",							    300,				3},
+	//{"",            SCRIPTDIR "todo",							    300,				3},
 	//{"",            SCRIPTDIR "news",								0,					6},
 	//{"",            SCRIPTDIR "mailbox",							180,				12},
 	{"",            SCRIPTDIR "cpu_usage",							15,					0},
